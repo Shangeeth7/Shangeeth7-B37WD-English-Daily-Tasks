@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://assets.architecturaldigest.in/photos/63053683125f24c166234523/master/pass/3Q3A1111%20(1).jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul {
+  position: fixed;
+  top: 60px;
+  left: 0;
+  height: calc(100vh - 60px);
+  background: #fff;
+  padding-right: 10px;
+
+  overflow-y: auto;
+}
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 3px grey;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: #777;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

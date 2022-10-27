@@ -1,0 +1,20 @@
+body {
+  background-color: white;
+}
+
+.card-header {
+  background-color: lightgrey;
+  color: black;
+  text-transform: uppercase;
+}
+.card {
+  background: whitesmoke;
+}
+.card-text {
+  text-align: center;
+  font-size: 18px;
+}
+
+img {
+  border: 1px solid white;
+}

@@ -1,0 +1,17 @@
+Q.1 -- Write a blog on difference between Document and Window Objects :
+
+The document and window object are two of the parent objects that we can access with JavaScript.
+The document object itself is subordinate to the window object.
+
+The Window Object :
+This is a Global object, which has several objects, attributes and functions within it.
+It can be described as an object with a lot of meta data and data about your webpage.
+It also contains the Document Object which is popularly used.
+
+
+The Document Object:
+The Document Object is another global object which contains the attributes, objects, 
+and functions of the website but of course lesser information than the window object as it is a subset of it.
+You can access the complete information and elements of the DOM from this document object.
+To be precise, you can access each and every element of the page 
+with a lot of functionality attached to it like methods, attributes, values, etc.,
